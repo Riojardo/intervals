@@ -94,5 +94,5 @@ function mole_play() {
     .appendChild(mole);
 }
 
-setInterval(mole_play, (16666);
+setInterval(mole_play, 16666);
 
